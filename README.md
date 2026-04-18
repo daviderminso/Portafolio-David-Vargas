@@ -29,3 +29,11 @@ Si deseas clonar esta terminal en tu entorno local, sigue estos pasos:
    ```bash
    git clone https://github.com
    cd Portafolio-David-Vargas
+
+
+
+📡 CONEXIÓN_Y_CONTACTO
+GitHub: @daviderminso
+Email: david.vargas.agri@email.com
+Ubicación: Girardot, Cundinamarca.
+
