@@ -330,7 +330,7 @@ class PortafolioHacker:
         for log in logs:
             self.log_terminal.controls.append(ft.Text(log, color="#4A4E57", size=11, font_family="monospace"))
             self.page.update()
-            await asyncio.sleep(0.3)
+            await asyncio.sleep(0.2)
 
     async def escribir(self, control, texto):
         for i in range(len(texto) + 1):
